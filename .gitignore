@@ -1,2 +1,9 @@
 /package-lock.json
 .idea/
+.idea/codeStyles
+.idea/modules.xml
+.idea/inspectionProfiles
+.idea/jsLinters
+.idea/united.iml
+.idea/vcs.xml
+.idea/workspace.xml
