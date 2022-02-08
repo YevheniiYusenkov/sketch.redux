@@ -1,7 +1,7 @@
 /package-lock.json
-.idea/
-.idea/codeStyles
-.idea/modules.xml
+.idea/*
+.idea/codeStyles/*
+.idea/modules.xml/*
 .idea/inspectionProfiles
 .idea/jsLinters
 .idea/united.iml
