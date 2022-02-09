@@ -1,7 +1,12 @@
 import '../css/index.css';
 
-import {createStore} from 'redux';
+const buttonAccept = document.getElementById('btn-accept');
+const buttonDecline = document.getElementById('btn-decline');
 
-const store = createStore(() => {});
+buttonAccept?.addEventListener('click', () => {
+  console.log('confirmed');
+});
 
-console.log(store);
+buttonDecline?.addEventListener('click', () => {
+  console.log('declined');
+});
