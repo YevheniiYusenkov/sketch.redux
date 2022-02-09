@@ -1,3 +1,10 @@
+@import "~bootstrap/dist/css/bootstrap-reboot.min.css";
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
 body {
 	font-family: Arial, Helvetica, sans-serif;
+}
+
+.title-container {
+	padding: 20px 0;
 }
